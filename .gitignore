@@ -1,0 +1,12 @@
+.autosave*
+*egg-info*
+.backup*
+*~
+*.plt
+*.svg
+*.dxf
+*.pyc
+*.pwj
+*.ud
+build/
+dist/
